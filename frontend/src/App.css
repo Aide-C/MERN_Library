@@ -1,0 +1,39 @@
+body, html {
+  background-color: blanchedalmond;
+  margin: 0;
+  text-align: center;
+}
+
+.navBar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+  background-color: black;
+}
+
+.navBar li{
+  display:inline;
+  color: white;
+  line-height: 40px;
+  margin: 5px;
+}
+
+.navBar li a {
+  text-decoration: none;
+  color: white;
+  padding: 30px;
+}
+
+.navBar li a:hover{
+  background-color: lightgray;
+}
+
+.inputs{
+  margin-top: 25px;
+}
+
+.list li{
+  font-size: 1.5em;
+  list-style-type: none;
+  margin-top: 10px;
+}
